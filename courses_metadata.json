@@ -1,0 +1,374 @@
+{
+    "courses": [
+        {
+            "course_name": "C",
+            "metadata": {
+                "skills": [
+                    "Procedural Programming",
+                    "Memory Management",
+                    "Data Structures"
+                ],
+                "prerequisites": [
+                    "Basic Computer Knowledge"
+                ],
+                "industry_relevance": [
+                    "System Programming",
+                    "Embedded Systems"
+                ]
+            }
+        },
+        {
+            "course_name": "C++",
+            "metadata": {
+                "skills": [
+                    "Object-Oriented Programming",
+                    "STL",
+                    "Game Development"
+                ],
+                "prerequisites": [
+                    "Knowledge of C or Basic Programming"
+                ],
+                "industry_relevance": [
+                    "Software Development",
+                    "Game Engines",
+                    "Desktop Applications"
+                ]
+            }
+        },
+        {
+            "course_name": "Java",
+            "metadata": {
+                "skills": [
+                    "Object-Oriented Programming",
+                    "JVM Concepts",
+                    "API Development"
+                ],
+                "prerequisites": [
+                    "Basic Programming",
+                    "Logical Thinking"
+                ],
+                "industry_relevance": [
+                    "Web Development",
+                    "Mobile Applications",
+                    "Enterprise Solutions"
+                ]
+            }
+        },
+        {
+            "course_name": "Advance Java",
+            "metadata": {
+                "skills": [
+                    "Java Frameworks",
+                    "Servlets",
+                    "Spring Boot"
+                ],
+                "prerequisites": [
+                    "Java Programming"
+                ],
+                "industry_relevance": [
+                    "Enterprise Applications",
+                    "Web Development"
+                ]
+            }
+        },
+        {
+            "course_name": "Python",
+            "metadata": {
+                "skills": [
+                    "Scripting",
+                    "Data Analysis",
+                    "Web Development"
+                ],
+                "prerequisites": [
+                    "Basic Computer Knowledge"
+                ],
+                "industry_relevance": [
+                    "Machine Learning",
+                    "Data Science",
+                    "Automation"
+                ]
+            }
+        },
+        {
+            "course_name": "Full Stack",
+            "metadata": {
+                "skills": [
+                    "Frontend Development",
+                    "Backend Development",
+                    "Database Management"
+                ],
+                "prerequisites": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript"
+                ],
+                "industry_relevance": [
+                    "Web Development",
+                    "Software Engineering"
+                ]
+            }
+        },
+        {
+            "course_name": "Coding",
+            "metadata": {
+                "skills": [
+                    "Problem Solving",
+                    "Algorithms",
+                    "Programming Languages"
+                ],
+                "prerequisites": [
+                    "Logical Thinking"
+                ],
+                "industry_relevance": [
+                    "Software Development",
+                    "Competitive Programming"
+                ]
+            }
+        },
+        {
+            "course_name": "SQL",
+            "metadata": {
+                "skills": [
+                    "Query Writing",
+                    "Database Management",
+                    "Data Retrieval"
+                ],
+                "prerequisites": [
+                    "Basic Computer Knowledge"
+                ],
+                "industry_relevance": [
+                    "Database Management",
+                    "Business Intelligence"
+                ]
+            }
+        },
+        {
+            "course_name": "Data Science",
+            "metadata": {
+                "skills": [
+                    "Data Visualization",
+                    "Machine Learning",
+                    "Statistical Analysis"
+                ],
+                "prerequisites": [
+                    "Python Programming",
+                    "Mathematics"
+                ],
+                "industry_relevance": [
+                    "Analytics",
+                    "AI",
+                    "Predictive Modeling"
+                ]
+            }
+        },
+        {
+            "course_name": "Data / Business Analyst",
+            "metadata": {
+                "skills": [
+                    "Excel",
+                    "Data Analysis",
+                    "Visualization"
+                ],
+                "prerequisites": [
+                    "Basic Analytical Skills",
+                    "SQL"
+                ],
+                "industry_relevance": [
+                    "Market Research",
+                    "Decision Making"
+                ]
+            }
+        },
+        {
+            "course_name": "Oracle",
+            "metadata": {
+                "skills": [
+                    "Database Management",
+                    "PL/SQL",
+                    "Enterprise Solutions"
+                ],
+                "prerequisites": [
+                    "SQL Basics"
+                ],
+                "industry_relevance": [
+                    "Database Administration",
+                    "ERP Solutions"
+                ]
+            }
+        },
+        {
+            "course_name": "SQL Server",
+            "metadata": {
+                "skills": [
+                    "Database Administration",
+                    "Query Optimization",
+                    "Backup & Recovery"
+                ],
+                "prerequisites": [
+                    "SQL Knowledge"
+                ],
+                "industry_relevance": [
+                    "Database Management",
+                    "Cloud Data Solutions"
+                ]
+            }
+        },
+        {
+            "course_name": "Android",
+            "metadata": {
+                "skills": [
+                    "Mobile Development",
+                    "Java/Kotlin",
+                    "UI/UX for Apps"
+                ],
+                "prerequisites": [
+                    "Java Programming"
+                ],
+                "industry_relevance": [
+                    "Mobile Applications",
+                    "Software Development"
+                ]
+            }
+        },
+        {
+            "course_name": "Data Structure",
+            "metadata": {
+                "skills": [
+                    "Algorithms",
+                    "Tree Structures",
+                    "Problem Solving"
+                ],
+                "prerequisites": [
+                    "Basic Programming Knowledge"
+                ],
+                "industry_relevance": [
+                    "System Optimization",
+                    "Software Development"
+                ]
+            }
+        },
+        {
+            "course_name": "AWS",
+            "metadata": {
+                "skills": [
+                    "Cloud Computing",
+                    "Infrastructure Management",
+                    "DevOps"
+                ],
+                "prerequisites": [
+                    "Basic Networking",
+                    "Linux Knowledge"
+                ],
+                "industry_relevance": [
+                    "Cloud Architecture",
+                    "System Administration",
+                    "Scalability Solutions"
+                ]
+            }
+        },
+        {
+            "course_name": "Salesforce",
+            "metadata": {
+                "skills": [
+                    "CRM Tools",
+                    "Salesforce Platform",
+                    "Workflow Automation"
+                ],
+                "prerequisites": [
+                    "Basic IT Knowledge"
+                ],
+                "industry_relevance": [
+                    "Customer Relationship Management",
+                    "Sales Solutions"
+                ]
+            }
+        },
+        {
+            "course_name": "R Programming",
+            "metadata": {
+                "skills": [
+                    "Statistical Computing",
+                    "Data Visualization",
+                    "Data Analysis"
+                ],
+                "prerequisites": [
+                    "Basic Statistics",
+                    "Programming Logic"
+                ],
+                "industry_relevance": [
+                    "Data Science",
+                    "Research"
+                ]
+            }
+        },
+        {
+            "course_name": "J2EE",
+            "metadata": {
+                "skills": [
+                    "Enterprise Java",
+                    "Web Applications",
+                    "EJB"
+                ],
+                "prerequisites": [
+                    "Core Java Knowledge"
+                ],
+                "industry_relevance": [
+                    "Enterprise Solutions",
+                    "Web Development"
+                ]
+            }
+        },
+        {
+            "course_name": "HTML",
+            "metadata": {
+                "skills": [
+                    "Markup Language",
+                    "Semantic Web",
+                    "Web Page Structuring"
+                ],
+                "prerequisites": [
+                    "None"
+                ],
+                "industry_relevance": [
+                    "Web Development",
+                    "Frontend Design"
+                ]
+            }
+        },
+        {
+            "course_name": "CSS",
+            "metadata": {
+                "skills": [
+                    "Styling",
+                    "Responsive Design",
+                    "Web Layouts"
+                ],
+                "prerequisites": [
+                    "HTML"
+                ],
+                "industry_relevance": [
+                    "Web Design",
+                    "UI Development"
+                ]
+            }
+        },
+        {
+            "course_name": "JavaScript",
+            "metadata": {
+                "skills": [
+                    "Dynamic Web Pages",
+                    "Event Handling",
+                    "DOM Manipulation"
+                ],
+                "prerequisites": [
+                    "HTML",
+                    "CSS"
+                ],
+                "industry_relevance": [
+                    "Frontend Development",
+                    "Full Stack Development"
+                ]
+            }
+        }
+    ]
+}
